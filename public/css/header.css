@@ -1,0 +1,39 @@
+.margin-top-70
+{
+    margin-bottom: 100px;
+}
+
+.container{
+    z-index: 1;
+}
+
+.card
+{
+
+    bottom: 15px;
+    left: 15px;
+    z-index: 2;
+    position: relative;
+    border: none;
+}
+
+
+
+.sidebar
+{
+    bottom: 500px;
+}
+
+.height-resize{
+    min-height: 600px;
+    max-height: 800px;
+    width: 100%;
+}
+
+.footer-bottom
+{
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #00ccba;
+}
+
