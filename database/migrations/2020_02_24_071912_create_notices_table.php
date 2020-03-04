@@ -20,7 +20,8 @@ class CreateNoticesTable extends Migration
             $table->timestamps();
         });
     }
-
+    hgfcujfyufuykfiuykfguyfjyhvhjftuyrfuofjuyfgiutfgukyfyhugffuiyfuy
+    htdgjyhfjkfhyufiufyifgvmhjfguitgukkh
     /**
      * Reverse the migrations.
      *
